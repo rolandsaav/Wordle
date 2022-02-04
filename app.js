@@ -5,7 +5,7 @@ const mainDiv = document.getElementById("Main")
 let counter = document.createElement('div')
 mainDiv.appendChild(counter)
 
-const word = "PERKY"
+const word = "QITRA"
 const grid = document.getElementById("LetterGrid")
 
 const rows = grid.getElementsByClassName("row")
